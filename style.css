@@ -1,0 +1,46 @@
+.heading {
+    text-align: center;
+    width: 100%;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+h2, h3{
+    display: inline;
+}
+.big_image{
+    width: 80%;
+    margin: 10px;
+}
+#start, #status{
+    font-size: 22px;    
+}
+#defaultCanvas0{
+    margin-left: 150px;
+}
+h4{
+    background-color: grey ;
+    color: white;
+    line-height: 2;
+    margin: 0px;
+}
+.modal-dialog{
+    width: 85%;
+}
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+x{
+    color: tomato;
+}
+i{
+    font-size: 20px;
+}
+#abcdef{
+    margin-bottom: 20px;
+}
+video{
+    transform: scaleX(-1);
+}
